@@ -10,3 +10,15 @@ C:\Users\ricar\source\repos\NetMarket\Core\obj\Debug\net5.0\Core.dll
 C:\Users\ricar\source\repos\NetMarket\Core\obj\Debug\net5.0\ref\Core.dll
 C:\Users\ricar\source\repos\NetMarket\Core\obj\Debug\net5.0\Core.pdb
 C:\Users\ricar\source\repos\NetMarket\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\bin\Debug\net5.0\Core.dll
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.dll
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\ricar\Source\Repos\ricardoretamozo\NetMarket\Core\obj\Debug\net5.0\Core.pdb
