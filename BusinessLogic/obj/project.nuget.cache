@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qHjzJSRWwivmU88FkDlFQSYirKORh76vPGfVbFVNmShnfc7fliWJljllTC+zfHC7kjv/yP8kiMqxlVKJRGv4tg==",
+  "dgSpecHash": "Y+PThIOu5EAN2DXDOMKdoLQ0l/JO3ea/kV1BOQ7kdNjVx22mE/7bnKnVeCzb8T4lKIfP7OsveMXohWtqK1xSIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

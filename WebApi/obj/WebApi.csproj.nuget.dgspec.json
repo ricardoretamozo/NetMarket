@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\ricar\\source\\repos\\NetMarket\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\Core.csproj"
+              "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\Core.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\Core.csproj": {
+    "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\ricar\\source\\repos\\NetMarket\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\NetMarket\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,8 +172,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\ricar\\source\\repos\\ricardoretamozo\\NetMarket\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\ricar\\source\\repos\\NetMarket\\BusinessLogic\\BusinessLogic.csproj"
               }
             }
           }
@@ -188,6 +188,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
