@@ -134,3 +134,9 @@ C:\Users\ricar\source\repos\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensio
 C:\Users\ricar\source\repos\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\ricar\source\repos\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ricar\source\repos\NetMarket\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ricar\source\repos\ricardoretamozo\NetMarket\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
